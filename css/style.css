@@ -1,0 +1,38 @@
+body {
+    font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #FCFCFC;
+    -webkit-font-smoothing: antialiased;
+    width: 100%;
+}
+  
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0a0d0f;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.authors{
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.abstract{
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.title {
+  color: black;
+  font-weight: 300;
+}
+
+.section {
+  margin-top: 5.5rem;
+}
+
+.transcript {
+  margin-top: 4rem;
+  margin-bottom: 1rem;
+  font-size: 1.7rem;
+}
